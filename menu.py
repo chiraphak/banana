@@ -1,2 +1,2 @@
 print('main menu')
-print('menu2'
+print('menu2')
